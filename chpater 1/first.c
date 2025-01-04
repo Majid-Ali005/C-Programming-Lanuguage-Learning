@@ -9,8 +9,13 @@ int main()
     puts("My Age is");
 
 
-printf("hello world");
+printf("hello world \n");
 
+
+int a = 25;
+printf("My Age is %d", a);
+
+string b = "hello world";
 
 
     return 0;
